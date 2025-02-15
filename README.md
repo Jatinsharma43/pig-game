@@ -12,7 +12,7 @@ The Pig Game is a simple two-player dice game where players take turns rolling a
    ```
 2. Navigate to the project directory:
    ```bash
-   cd js-6
+   cd pig-game
    ```
 3. Open `6.html` in your browser to play the game.
 
